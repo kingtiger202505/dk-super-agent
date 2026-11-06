@@ -2,5 +2,7 @@
 
 Playground repository for dsh-superagent, the proactive coding agent prototype.
 
-Open an issue and mention the agent account to give it work. It replies in the thread and
-delivers a pull request on a branch under the agent prefix.
+## How to ask for work
+
+Open an issue and mention this account ([@kingtiger202505](https://github.com/kingtiger202505)) to give the agent work.
+The agent replies in the thread with a pull request on a branch under the agent prefix.
